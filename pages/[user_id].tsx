@@ -1,7 +1,7 @@
 import React from 'react'
 import { useRouter } from 'next/router'
 
-const userId = () => {
+const UserId = () => {
 
     const router =useRouter()
 
@@ -12,4 +12,4 @@ const userId = () => {
   )
 }
 
-export default userId
+export default UserId
